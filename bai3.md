@@ -1,5 +1,5 @@
 # BÀI TẬP VỀ NHÀ 03 - MÔN HỆ QUẢN TRỊ CSDL:
-## Bài tập 03 của sinh viên: K225480106028 - Vũ Bảo Khánh - Môn Hệ quản trị CSDL
+## Bài tập 03 của sinh viên: K225480106054-Nguyễn Thị Xuân Phương - Môn Hệ quản trị CSDL
 
 ## DEADLINE: 23H59 NGÀY 30/03/2025
 
